@@ -27,16 +27,21 @@ Express、Curl、SQL文などを使った、APIのHTTP通信/設計(オニオン
 REST API(Open API)/Stoplight Studio/PlanetScale/Node.js/Express/Lambda/MySQL
 
 - Stoplight Studio
+
   REST API設計のために使用。シンプルなGUIで簡単にyamlファイルを生み出すことができる。
   
 - PlanetScale
+
   サーバレスDB。サーバーの管理をしなくても済むためその他の作業に集中できる。
   
 - Express
+
   Node.jsフレームワーク。HTTP通信を理解するために使用。
   
 - MySQL
+
   このリポジトリでは、Prismaを使っておりません。
+  
   理由としては、Prismaを使うとSQL文を使わずに済むので楽ですが、DBとのやりとりが隠蔽されているため、バックエンドの本質の理解や、長くバックエンドにも関わっていく場合、後々でPrisma以外のものがパラダイム・シフトで出現した場合、対応が難しくなることを想定されます。そこで、バックエンドの基本を見に付けておきたい思いからこのようなリポジトリも用意しました。
 
 # 開発背景
