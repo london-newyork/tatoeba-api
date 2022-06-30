@@ -10,7 +10,7 @@
 その他のリポジトリはこちら。
 
 -------------
-[Express+MySQL版]フロントエンド
+[Express+MySQL版]フロントエンドリポジトリ
 https://github.com/london-newyork/tatoeba-frontend
 
 [Prisma版]フロントエンドリポジトリ
