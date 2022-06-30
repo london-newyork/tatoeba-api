@@ -7,14 +7,20 @@
 
 
 ※こちらは[Express+MySQL版]バックエンド（API）のリポジトリです。
+その他のリポジトリはこちら。
 
-フロントエンドのみのリポジトリはこちら。
-（過去のIssueやPRなども見られます）
 -------------
 [Express+MySQL版]フロントエンド
 https://github.com/london-newyork/tatoeba-frontend
 
+[Prisma版]フロントエンドリポジトリ
+https://github.com/london-newyork/tatoeba-frontend-prisma
+
+[Prisma版]バックエンドを含むリポジトリ
+https://github.com/london-newyork/tatoeba-api-prisma
+
 -------------
+
 ### このアプリでの機能および主なやったこと
 
 CRUD処理/検索/タグによるソート機能/eメールによるメール認証・ログイン認証/API設計/APIによる画像登録/他のユーザーからの評価機能/
