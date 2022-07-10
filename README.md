@@ -11,12 +11,15 @@
 
 -------------
 [Express+MySQL版]フロントエンドリポジトリ
+
 https://github.com/london-newyork/tatoeba-frontend
 
-[Prisma版]フロントエンドリポジトリ
+<sub>[Prisma版]フロントエンドリポジトリ</sub>
+
 https://github.com/london-newyork/tatoeba-frontend-prisma
 
-[Prisma版]バックエンドを含むリポジトリ
+<sub>[Prisma版]バックエンドを含むリポジトリ</sub>
+
 https://github.com/london-newyork/tatoeba-api-prisma
 
 -------------
